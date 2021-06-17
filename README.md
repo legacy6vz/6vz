@@ -1,5 +1,4 @@
-<center>
-
+<div align="center">
 ### Hi there 👋
 
 - 🔭 I’m currently working on **cheems.dog**
@@ -27,4 +26,4 @@
 - [x] Do better uploader
 - [x] Do basic uploader
 
-  </center>
+</div>
