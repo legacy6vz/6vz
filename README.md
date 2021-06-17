@@ -14,7 +14,9 @@
 
 ### What I'm listening to 🎶
 
-![[https://spotify-github-profile.vercel.app/api/view.svg?uid=cstqihratnh4m518g48jykau2&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=cstqihratnh4m518g48jykau2&cover_image=true&theme=novatorem)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cstqihratnh4m518g48jykau2&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=cstqihratnh4m518g48jykau2&redirect=true)
+
+#
 
 ### ToDo List ⚡
 
