@@ -7,6 +7,12 @@
 
 #
 
+### Discord Account 🎉
+
+<img align="center" src="https://discord.c99.nl/widget/theme-4/338075554937044994.png" />
+  
+# 
+  
 ### Some Stats 📊
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=6vz&count_private=true" /> <br><br>
@@ -26,5 +32,7 @@
 - [x] Learn JS
 - [x] Do better uploader
 - [x] Do basic uploader
+  
+ 
 
 </div>
